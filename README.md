@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**vxp101/vxp101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+These are the ideas that I want to start with since GitHub is kind enough to give me a template I will use it.
 
 - 🔭 I’m currently working on finding an apprenticeship in software engineering
 - 🌱 I’m currently learning advanced JavaScript
@@ -13,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: vxp101@gmail.com, I'm always checking my email
 - 😄 Pronouns: Mr.
 - ⚡ Fun fact: It would take 150 Apricot seeds to guarantee Cyanide poisoning
--->
+
