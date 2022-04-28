@@ -9,5 +9,5 @@ These are the ideas that I want to start with since GitHub is kind enough to giv
 - 💬 Ask me about anything, I'm always glad to help
 - 📫 How to reach me: vxp101@gmail.com, I'm always checking my email
 - 😄 Pronouns: Mr.
-- ⚡ Fun fact: It would take 150 Apricot seeds to guarantee Cyanide poisoning
+- ⚡ Fun fact: Most Philosophers thought there was an accessible hole in the center of the earth before we proved otherwise
 
