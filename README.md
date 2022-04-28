@@ -8,6 +8,4 @@ These are the ideas that I want to start with since GitHub is kind enough to giv
 - 🤔 I’m looking for help with getting my foot in the door in software engineering
 - 💬 Ask me about anything, I'm always glad to help
 - 📫 How to reach me: vxp101@gmail.com, I'm always checking my email
-- 😄 Pronouns: Mr.
-- ⚡ Fun fact: Most Philosophers thought there was an accessible hole in the center of the earth before we proved otherwise
 
